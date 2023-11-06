@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 test code doi888
 codename:vbvb
+=======
+test code
+tan
+>>>>>>> 2eb2ca495c5e9a31e99413a4811269960b3dbd28
