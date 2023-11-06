@@ -5,5 +5,5 @@ function a(){
 }
 
 function b(){
-    
+    hello
 }
